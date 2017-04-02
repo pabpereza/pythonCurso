@@ -1,5 +1,3 @@
-
-
 v = "otro texto"
 n = 10
 print("Un texto",v,"y un numero",n)
