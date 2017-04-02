@@ -1,0 +1,4 @@
+Manuel Miranda;34223599G;C/ Alcalá, 23, 2ºA;91334555;mmiranda@yahoo.com;2348,34
+Pedro Molina;23343112H;C/ del Retiro, 234, 1ºF;;;58763,7
+Rosa Campos;12776455Y;C/ Toreros, 99, bajo;988343322;rosac@hotmail.com;508,45
+Luisa Merino Reyes;64553875T;Av. Constitución, 44,3ºF;988355100;lumere@gmail.es;13225,89

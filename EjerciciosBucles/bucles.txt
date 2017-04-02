@@ -1,0 +1,10 @@
+1. Imprime por pantalla todas las potencias de dos menores o iguales que 2048, utilizando un bucle while
+2. Lee valores del usuario hasta que teclee un numero par, utilizando un bucle while
+3. Imprime por pantalla las primeras 15 potencias de dos
+4. Lee una cadena de texto del usuario y para cada letra indica si es una vocal o una consonante
+5. A partir de dos listas de enteros, 'numeros1' y 'numeros2', crea una lista que contiene aquellos valores de la primera que tambien estan en la segunda e imprimela por pantalla. Es decir, calcula la interseccion de ambas listas. 
+6. A partir de dos listas de enteros, 'numeros1' y 'numeros2' de igual tamano, generar otra cuyo primer elemento es el producto del primer elemento de las listas 'numeros1' y 'numeros2', y asi sucesivamente.
+7. A partir de dos listas de enteros, 'numeros1' y 'numeros2', almacenar en una lista el resultado de multiplicar cada uno de los elementos de 'numeros1' por, a su vez, cada uno de los elementos de 'numeros2'. Es decir, la lista resultante tendra len(numeros1) * len(numeros2) elementos. 
+8. Para cada una de las cadenas de texto almacenadas en una lista, imprimir por pantalla el indice y la cadena en si e indicar si la palabra es demasiado corta (cinco o menos caracteres) o larga (mas de cinco caracteres) 
+9. Recibe una lista de enteros y calcula la media aritmetica. 
+10. Lee una cadena de texto del usuario e imprime por pantalla un mensaje simpatico si y solo si contiene todas las vocales
